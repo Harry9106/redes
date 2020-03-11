@@ -1,0 +1,3 @@
+EXPLICACIÓN DE LO REALIZADO
+
+En este laboratorio diseñamos e implementamos un programa servidor de archivos basado en el protocolo HFTP, diferenciandolo del anterior que habiamos hecho por el uso de paralelismo en forma de multiplexacion. Con esto logramos que nuestro servidor pueda atender pedidos de multiples clientes de forma asincrona. Esto se realizo mediante el uso de la primitiva poll. Aparte de lo mencionado, el servidor es bastante similar al servidor monocliente ya realizado y se usa de la misma manera por parte de los clientes.
